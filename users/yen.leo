@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -20,13 +21,13 @@
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="leo.20161013190948.1"><vh>@@edit index.html</vh></v>
-<v t="leo.20161014112512.1"><vh>@clean index.html</vh>
+<v t="leo.20161014112512.1" a="E"><vh>@clean index.html</vh>
 <v t="leo.20161014112512.2" a="E"><vh>html</vh>
 <v t="leo.20161014112512.3"><vh>head</vh></v>
 <v t="leo.20161014112512.4" a="E"><vh>body</vh>
 <v t="leo.20161014112512.5" a="E"><vh>reveal div</vh>
 <v t="leo.20161014112512.6" a="E"><vh>slides div</vh>
-<v t="leo.20161014112512.7"><vh>封面投影片</vh>
+<v t="leo.20161014112512.7" a="E"><vh>封面投影片</vh>
 <v t="leo.20161014112512.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20161014112512.9"><vh>三大主題教學</vh>
@@ -105,10 +106,11 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20161024110329.1"><vh>@edit 20161006.md</vh></v>
 </v>
 </v>
 </v>
@@ -691,17 +693,15 @@ make.start()
 </t>
 <t tx="leo.20161014112512.8">## 2016Fall 電腦輔助設計實習課程
 
-### 虎科大機械設計工程系
+### 四設計二乙 40423219 林宏一
 
 &lt;small&gt;
-Created by [kmolab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423219]
 &lt;/small&gt;
 
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
+[40423219電腦輔助設計實習課程網誌](https://40423219.github.io/2016fallcadp_hw/blog/index.html)
 
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
+[Vimeo 個人影片](https://vimeo.com/user47671379/videos)
 </t>
 <t tx="leo.20161014112512.9">&lt;section&gt;
 @others
