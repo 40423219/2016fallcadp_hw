@@ -49,4 +49,17 @@
 &lt;img src="http://i.imgur.com/QxoclNH.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="../data/threejs/404232195.html" width="700" height="550"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;img src="http://i.imgur.com/aKIXoBA.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="作業"></category></entry></feed>
+&lt;p&gt;&lt;img src="http://i.imgur.com/aKIXoBA.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>Solvespace網誌顯示問題</title><link href="./solvespacewang-zhi-xian-shi-wen-ti.html" rel="alternate"></link><updated>2016-01-05T12:21:00+08:00</updated><author><name>40423219</name></author><id>tag:,2016-01-05:./solvespacewang-zhi-xian-shi-wen-ti.html</id><summary type="html">&lt;p&gt;40423219 Solvespace作業&lt;/p&gt;
+
+
+&lt;p&gt;組件無法顯示
+&lt;img src="http://i.imgur.com/q6MEhQp.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;步驟一
+找到組件html檔，使用SciTE開啟。&lt;/p&gt;
+&lt;p&gt;步驟二
+將圖片中網址"http"更改為"https"。
+&lt;img src="http://i.imgur.com/CjeusEq.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;步驟三
+leo中點選pelican button然後儲存。&lt;/p&gt;
+&lt;p&gt;步驟四
+推送即可&lt;/p&gt;</summary><category term="作業"></category></entry></feed>
