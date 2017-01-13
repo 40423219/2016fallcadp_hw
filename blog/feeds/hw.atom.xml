@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 學生網誌 40423219</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T09:56:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習期末總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-qi-mo-zong-jie.html" rel="alternate"></link><published>2017-01-13T09:56:00+08:00</published><updated>2017-01-13T09:56:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-qi-mo-zong-jie.html</id><summary type="html">&lt;p&gt;期末總結&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 學生網誌 40423219</title><link href="./" rel="alternate"></link><link href="./feeds/hw.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T09:56:00+08:00</updated><entry><title>2016Fall 電腦輔助設計實習期末總結</title><link href="./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-qi-mo-zong-jie.html" rel="alternate"></link><published>2017-01-13T09:56:00+08:00</published><updated>2017-01-13T09:56:00+08:00</updated><author><name>40423219</name></author><id>tag:,2017-01-13:./2016fall-dian-nao-fu-zhu-she-ji-shi-xi-qi-mo-zong-jie.html</id><summary type="html">&lt;h1&gt;期末總結&lt;/h1&gt;
 
 
-&lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;1234567&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>Onshape作業 期末</title><link href="./onshapezuo-ye-qi-mo.html" rel="alternate"></link><published>2016-12-30T11:02:00+08:00</published><updated>2016-12-30T11:02:00+08:00</updated><author><name>40423219</name></author><id>tag:,2016-12-30:./onshapezuo-ye-qi-mo.html</id><summary type="html">&lt;p&gt;40423219 Onshape作業&lt;/p&gt;
+&lt;p&gt;作業內容:&lt;/p&gt;
+
+&lt;p&gt;1.Solvespace練習&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://40423219.github.io/2016fallcadp_hw/blog/solvespace-tracepoint.html"&gt;Solvespace軌跡追蹤&lt;/a&gt;
+&lt;p&gt;使用Solvespace繪製簡單的機構,再利用內建的TracePoint功能來模擬某個點的運動軌跡.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423219.github.io/2016fallcadp_hw/blog/solvespacezu-li.html"&gt;Solvespace組立&lt;/a&gt;
+&lt;p&gt;使用Solvespace繪製零件,再將繪製的零件約束條件,組合成組立.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;2.Onshape練習&lt;/p&gt;</summary><category term="作業"></category></entry><entry><title>Onshape作業 期末</title><link href="./onshapezuo-ye-qi-mo.html" rel="alternate"></link><published>2016-12-30T11:02:00+08:00</published><updated>2016-12-30T11:02:00+08:00</updated><author><name>40423219</name></author><id>tag:,2016-12-30:./onshapezuo-ye-qi-mo.html</id><summary type="html">&lt;p&gt;40423219 Onshape作業&lt;/p&gt;
 
 
 &lt;h1&gt;第八件&lt;/h1&gt;
